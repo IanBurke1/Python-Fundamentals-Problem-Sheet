@@ -17,6 +17,7 @@ def func():
         elements = int(input()) # taking in list elements
         list.append(elements) # appending elements to list
 
-    print(list)
+    print("Largest element in the list: ", max(list))
+    print("Smallest element in the list: ", min(list))
 
 func() # call function to run
