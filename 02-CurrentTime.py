@@ -4,7 +4,8 @@
 
 # Problem Sheet: https://emerging-technologies.github.io/problems/python-fundamentals.html
 
-import time
+import time # import time package
 
-currentTime = time.asctime(time.localtime(time.time()))
-print("Current Time: ", currentTime)
+# https://docs.python.org/3/library/time.html
+currentTime = time.localtime()
+print("Current Time: ", currentTime) # print out time
