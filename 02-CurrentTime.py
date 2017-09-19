@@ -7,5 +7,5 @@
 import time # import time package
 
 # https://docs.python.org/3/library/time.html
-currentTime = time.localtime()
+currentTime = time.asctime()
 print("Current Time: ", currentTime) # print out time
