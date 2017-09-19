@@ -14,5 +14,7 @@ def mergeSort():
     
     print(list1)
 
+mergeSort() # call function to run
+
 
 
