@@ -15,7 +15,8 @@ guessCount = 0 # counter to count the number of guesses
 
 # create a while loop for user to guess multiple times
 while True:
-    userGuess = int(input()) # user's guess is stored as int in userGuess
+    userGuess = input() # user's guess is stored as int in userGuess
+    userGuess = int(userGuess)
     guessCount += 1 # increment count by + 1 for every guess
 
     if userGuess < num: #if user's guess is less than random num then..
@@ -29,6 +30,5 @@ while True:
         print("Guesses taken: " , guessCount)
         break # end the while loop 
 
-        
 
 
