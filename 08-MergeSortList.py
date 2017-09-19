@@ -11,7 +11,7 @@ def mergeSort():
     list2 = [2,3,5]
     
     list1.extend(list2) # Merge list2 into list1
-    
+    list1.sort() # sort the merged lists
     print(list1)
 
 mergeSort() # call function to run
