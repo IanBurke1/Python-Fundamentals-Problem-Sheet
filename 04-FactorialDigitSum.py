@@ -6,6 +6,7 @@
 
 import math
 
+# create a function to get the factorial of 100 and also calculate the sum of digits in the factorial
 def factorial(n):
     
     fact = math.factorial(n) # importing a function that calculates the factorial of n
