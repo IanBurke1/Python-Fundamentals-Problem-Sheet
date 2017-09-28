@@ -6,7 +6,9 @@
 import math
 
 def sqrt():
-    
+    x = 100
+    ans = math.sqrt(x)
+    print("Square Root of ", x, " is: ", ans)
 
 
 
