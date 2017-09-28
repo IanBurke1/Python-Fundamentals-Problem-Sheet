@@ -4,6 +4,7 @@
 
 # Problem Sheet: https://emerging-technologies.github.io/problems/python-fundamentals.html
 
+# Newton's method for square roots
 import math # Importing math functions from python documentation
 
 # create a function to find the square root
