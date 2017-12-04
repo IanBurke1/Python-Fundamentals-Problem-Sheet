@@ -5,12 +5,12 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 #### **_Solution can be found above_**
 
 ## How to run
-1. Click [here]() to download zip of the repository
+1. Click [here](https://github.com/ianburkeixiv/Python-Fundamentals-Problem-Sheet/archive/master.zip) to download zip of the repository
 2. Unzip the repository in a directory e.g. Desktop
 3. Open up a command terminal 
 4. Enter the following to run each python script:
 ```python
-$ python helloworld.py
+ python 01-HelloWorld.py
 ```
 
 ## How to clone this repository
