@@ -9,21 +9,18 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 2. Unzip the repository in a directory e.g. Desktop
 3. Open up a command terminal 
 4. Enter the following to run each python script:
-```python
+```bash
  python 01-HelloWorld.py
 ```
 
 ## How to clone this repository
-1. Go to the Github repository page.
-2. Find the link to clone the repository (should be on right side of the repository)
-3. Copy the link.
-4. Open up git bash and change into a directory you want to save the git repository.
-5. Enter git clone followed by the link e.g. git clone https://github.com/ianburkeixiv/Python-Fundamentals-Problem-Sheet.git
-
-## How to run these scripts
-1. Open a command terminal.
-2. Enter "python nameoffile.py"
-
+1. Go to clone or download (should be on right side of the repository in green)
+2. Copy the URL.
+3. Open up git bash and change into a directory where you want to save the git repository.
+4. Enter git clone followed by the link: 
+```bash
+git clone https://github.com/ianburkeixiv/Python-Fundamentals-Problem-Sheet.git
+```
 ## Python
 [Python](https://www.python.org/) is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options.
 
