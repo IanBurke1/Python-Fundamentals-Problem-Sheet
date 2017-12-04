@@ -21,7 +21,8 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 ```bash
 git clone https://github.com/ianburkeixiv/Python-Fundamentals-Problem-Sheet.git
 ```
-## Python [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
+## Python 
+[![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
 
 [Python](https://www.python.org/) is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options.
 
