@@ -14,3 +14,9 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 ## How to run these scripts
 1. Open a command terminal.
 2. Enter "python nameoffile.py"
+
+## Python
+[Python](https://www.python.org/) is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options.
+
+## References
+- [pythonforbeginners](http://www.pythonforbeginners.com/learn-python/what-is-python/)
