@@ -4,6 +4,15 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 
 #### **_Solution can be found above_**
 
+## How to run
+1. Click [here]() to download zip of the repository
+2. Unzip the repository in a directory e.g. Desktop
+3. Open up a command terminal 
+4. Enter the following to run each python script:
+```python
+$ python helloworld.py
+```
+
 ## How to clone this repository
 1. Go to the Github repository page.
 2. Find the link to clone the repository (should be on right side of the repository)
@@ -19,4 +28,7 @@ This repository contains solutions to [problem sheet 1](https://emerging-technol
 [Python](https://www.python.org/) is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options.
 
 ## References
-- [pythonforbeginners](http://www.pythonforbeginners.com/learn-python/what-is-python/)
+[pythonforbeginners](http://www.pythonforbeginners.com/learn-python/what-is-python/)
+
+[Emerging Technologies](https://emerging-technologies.github.io/)
+
